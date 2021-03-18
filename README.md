@@ -1,4 +1,4 @@
-# hotmoist
+# hotmosit
 
 **WhO Am I?**
  - just a normal-univ. *Student*
