@@ -1,5 +1,5 @@
 # **Hotmosit**
-yes I typed my name wrong.
+_yes I typed my name wrong._
 
 ## _CNU CSE Junior (current)_  
 
