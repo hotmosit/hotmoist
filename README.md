@@ -7,7 +7,7 @@ _yes I typed my name wrong._
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotmosit&&show_icons=true&theme=dark)]
 
- - HCI Lab undergraduate intern in CNU
+ - HCI Lab undergraduate intern
  - Research on digital health care
  
  > No coffee, No coding
