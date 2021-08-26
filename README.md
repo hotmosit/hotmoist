@@ -1,5 +1,5 @@
-# **Hotmosit**
-_yes I typed my name wrong._
+# **Hotmoist**
+_It is hot. It is moisty._
 
 ## _CNU CSE Junior (current)_  
 
