@@ -18,8 +18,9 @@
    </strong>
 </h2>  
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark)
+<p align='center'>
+   <img src = https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark>
+</p>
 
 <div style="text-align: center">
 <h3 align='center'> 
@@ -30,15 +31,25 @@
 <p align='center'>
    <strong>
    <em>
-      - Research on digital health care -
+      🎇 Research on Digital Health Care 🎇
    </em>
    </strong>
 </p>
 
- > No coffee, No coding
- 
- | [__LinkedIn__](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | 
+<blockquot>
+   <p>
+      <em>
+         No coffee, No coding
+      </em>
+   </p>
+</blockquot>
 
+<p>
+   |
+   <a herf= 'https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US'> LinkedIn
+   </a>
+   | 
+</p>
 </div>
 
 
