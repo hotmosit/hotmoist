@@ -9,7 +9,7 @@ Enjoy Your Pain!😎
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark)   
-  ### __HCI Lab undergraduate intern__
+  ### __HCI Lab__
   🎇 Research on Digital Health Care 🎇
  
 >  No coffee, No coding
