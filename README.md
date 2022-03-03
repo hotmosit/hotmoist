@@ -1,4 +1,4 @@
-<p align="center">
+<center>
 
 # __Hi I'm Gyeyoung Jung__
 _No Pain No Gain_  
@@ -17,4 +17,3 @@ __- Research on digital health care -__
  
  | [__LinkedIn__](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | 
 
-</p>
