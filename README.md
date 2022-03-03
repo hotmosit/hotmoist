@@ -1,12 +1,24 @@
-<center>
+<div style="text-align: center">
 
-# __Hi I'm Gyeyoung Jung__
-_No Pain No Gain_  
-_Enjoy Your Pain_
+<h1 align='center'>
+<strong>
+   Hi I'm Gyeyoung Jung 
+</strong>
+</h1> 
+<p align='center'>
+   <em>
+   No Pain No Gain<br> 
+   Enjoy Your Pain
+   </em>
+</p>
 
-## __CNU CSE Senior__  
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhotmoist&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<h2 align ='center'>
+   <strong>
+      CNU CSE Senior
+   </strong>
+</h2>  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark)
 
@@ -16,4 +28,6 @@ __- Research on digital health care -__
  > No coffee, No coding
  
  | [__LinkedIn__](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | 
+</div>
+
 
