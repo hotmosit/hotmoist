@@ -4,14 +4,14 @@
    Hi I'm Gyeyoung Jung 
 </strong>
 </h1> 
-
-   <blockquot style="text-align: center;">
-
-      No Pain, No Gain 
-      Enjoy Your Pain!
-   
-   </blockquot>
-
+      <h4 align='center'>
+      <strong>
+      <em>
+      No Pain, No Gain <br> 
+      Enjoy Your Pain! 
+      </em>😎
+      </strong>
+      </h4>
 <h2 align ='center'>
    <strong>
       CNU CSE Senior
