@@ -40,8 +40,11 @@
       Coffee is my life
    </em>
    <br>
-   <br>
-   |<a herf= 'https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US'> LinkedIn </a>|
+   <div align="center">
+   
+   | [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US)|
+      
+   </div>
 </p>
 
 
