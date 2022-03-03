@@ -2,7 +2,7 @@
 
 
 # **Hi I'm Gyeyoung Jung** 
-No Pain, No Gain <br> 
+No Pain, No Gain    
 Enjoy Your Pain!😎 
 
 ## CNU CSE Senior  
@@ -12,7 +12,7 @@ Enjoy Your Pain!😎
   ### __HCI Lab undergraduate intern__
   🎇 Research on Digital Health Care 🎇
  
-  No coffee, No coding
+>  No coffee, No coding
  
 | [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) |
 
