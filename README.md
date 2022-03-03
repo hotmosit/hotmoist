@@ -42,7 +42,7 @@
    <br>
    <div align="center">
    
-   | [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US)|
+   | [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) |
       
    </div>
 </p>
