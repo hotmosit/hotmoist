@@ -4,13 +4,13 @@
    Hi I'm Gyeyoung Jung 
 </strong>
 </h1> 
-<p align='center'>
-   <em>
-   No Pain No Gain<br> 
-   Enjoy Your Pain
-   </em>
-</p>
 
+   <blockquot style="text-align: center;">
+
+      No Pain, No Gain 
+      Enjoy Your Pain!
+   
+   </blockquot>
 
 <h2 align ='center'>
    <strong>
@@ -22,7 +22,6 @@
    <img src = https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark>
 </p>
 
-<div style="text-align: center">
 <h3 align='center'> 
    <strong>
       HCI Lab 
@@ -36,20 +35,17 @@
    </strong>
 </p>
 
-<blockquot>
-   <p>
-      <em>
-         No coffee, No coding
-      </em>
-   </p>
-</blockquot>
+<p align='center'>
+   <em>
+      Coffee is my life
+   </em>
+</p>
 
-<p>
+<p align = 'center'>
    |
    <a herf= 'https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US'> LinkedIn
    </a>
    | 
 </p>
-</div>
 
 
