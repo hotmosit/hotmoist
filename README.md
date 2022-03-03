@@ -1,4 +1,3 @@
-<div style="text-align: center">
 
 <h1 align='center'>
 <strong>
@@ -19,6 +18,7 @@
    </strong>
 </h2>  
 
+<div style="text-align: center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark)
 
