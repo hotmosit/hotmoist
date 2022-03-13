@@ -14,6 +14,6 @@ Enjoy Your Pain!😎
  
 >  No coffee, No coding
  
-| [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | [Blog](https://velog.io/@hotmosit) |
+| [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | [Blog](https://velog.io/@hotmosit) | [TIL](https://woolen-vinyl-157.notion.site/TIL-a173923c843b47cb8f69a3d622879ce0) |
 
 </div>
