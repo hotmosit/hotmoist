@@ -8,7 +8,7 @@ Enjoy Your Pain!😎
 ## CNU CSE Senior  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark)   
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotmoist&&show_icons=true&theme=dark)    -->
   ### __HCI Lab__
   🎇 Research on Digital Health Care 🎇
  
