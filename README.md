@@ -12,7 +12,8 @@ Enjoy Your Pain!😎
   ### __CNU HCI Lab__
   🎇 Research on Digital Health Care 🎇
  
->  No coffee, No coding
+>  <em>I’m not a great programmer; I’m just a good programmer with great habits.</em>   
+>  \- Kent Beck -
  
 | [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | 
 <!-- [Blog](https://woolen-vinyl-157.notion.site/Gyeyoung-Jung-s-Blog-36286a968be4438792e9495d6f0dc793) | [TIL](https://woolen-vinyl-157.notion.site/TIL-a173923c843b47cb8f69a3d622879ce0) |
