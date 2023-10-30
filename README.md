@@ -11,7 +11,7 @@ and I'm employee of the month
   ### __CNU Wellness Computing Lab__
   🎇 Research on Digital Health Care 🎇
  
->  <em>ENJOY bOi.</em>   
+>  <em>What can I say except AAAÂAAAAÀ.</em>   
 >  \- Gandhi -
  
 | [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | 
