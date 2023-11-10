@@ -6,7 +6,7 @@ __Why Are u Here??__
 Being mentally ill is a full time job   
 and I'm EmPloYEE Of tHE mOnTh
 
-_" Awesome Possume "_  
+_" Awesome Possum "_  
 _- Mahatma Gandhi -_
  
 | [LinkedIn](https://www.linkedin.com/in/gyeyoung-jung-a911b8220/?locale=en_US) | 
