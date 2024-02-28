@@ -4,7 +4,7 @@
 __Why Are u Here??__  
 
 Being mentally ill is a full time job   
-and I'm EmPloYEE Of tHE mOnTh
+and I'm EmPloYEE Of tHE mOnTh.
 
 _" Awesome Possum "_  
 _- Mahatma Gandhi -_
